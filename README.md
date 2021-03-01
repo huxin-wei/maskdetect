@@ -4,7 +4,7 @@ This is the first machine learning project I tried at the start of cov-19 <br />
 it may not be able to represent my skills now, <br />
 but it can demonstrate my learning abilities , skills of solving problems ,getting things done and overcoming difficulties <br />
 I was quite an amateur at that time <br />
-using pre-trained models<br />
+use pre-trained models don't konw how to optimize<br />
 learn and  solve bugs from the internet <br />
 mark pictures with friends all nights<br />
 cool the computer with wet towels<br />
